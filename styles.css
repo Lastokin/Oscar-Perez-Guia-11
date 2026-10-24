@@ -1,0 +1,15 @@
+
+:root {
+    --poke-yellow: #FFCB05;       
+    --poke-yellow-hover: #E5B700; 
+    --poke-blue: #2A75BB;        
+    --poke-blue-dark: #1B4F8A;   
+    --poke-red: #EE1515;         
+    --poke-red-hover: #C90F0F;   
+    --poke-bg: #F4F6FB;          
+    --poke-card: #FFFFFF;        
+    --poke-text: #2D3748;        
+    --poke-shadow: rgba(42, 117, 187, 0.15); 
+}
+
+
